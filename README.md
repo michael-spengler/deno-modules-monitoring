@@ -25,7 +25,5 @@ This repository contains a list of [Deno](https://deno.land) Modules which I co-
 21. https://deno.land/x/log  
 22. https://deno.land/x/deno_moment    
 22. https://deno.land/x/vofarm  
+23. https://deno.land/x/telegram_chatbot  
 
-
-## Long Term Challenges
-web3 optimization, decentralized vofarm solution not working properly yet 
